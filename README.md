@@ -1,2 +1,2 @@
 # Tutoriais
-Tutoriais diversos de instalações em linux e windows
+Tutoriais diversos em linux e windows
