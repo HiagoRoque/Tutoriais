@@ -47,5 +47,15 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 sudo apt-get update
 sudo apt-get install ./docker-desktop-<version>-<arch>.deb
 ```
+#
+> Após seguir os passos anteriores, pode iniciar o docker desktop normalmente. Ao ser aberto a primeira vez o programa demora um pouco mais para iniciar.
+
+### Referêcias:
+[Documentação docker - Instalação no Ubuntu][docker-ubuntu]
+
+[Documentação docker - Instalação docker engine][docker-engine]
+
+[docker-ubuntu]:https://docs.docker.com/desktop/install/ubuntu/
+[docker-engine]:https://docs.docker.com/engine/install/ubuntu/#set-up-the-repository
 
 
