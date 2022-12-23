@@ -9,14 +9,14 @@ Em breves palavras, Docker é um conjunto de produtos de plataforma como serviç
 #
 ## Passo a passo para a instalação:
 
-### Realize uma limpeza
+### Realize uma limpeza:
 
 ```console
 rm -r $HOME/.docker/desktop
 sudo rm /usr/local/bin/com.docker.cli
 sudo apt purge docker-desktop
 ```
-### Prepare o repositório:
+### Instalações necessárias:
 
 ```console
 sudo apt-get update
@@ -26,12 +26,12 @@ sudo apt-get install \
     gnupg \
     lsb-release
 ```
-### Adicione a chave GPG oficial
+### Adicione a chave GPG oficial:
 ```console
 sudo mkdir -p /etc/apt/keyrings
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
 ```
-### 
+### Prepare o repositório:
 ```console
 echo \
   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
@@ -43,7 +43,7 @@ sudo apt-get update
 ```console
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 ```
-### Baixe o `.deb` mais recente do docker e instale
+### Baixe o `.deb` mais recente do docker e instale:
 ```console
 sudo apt-get update
 sudo apt-get install ./docker-desktop-<version>-<arch>.deb
