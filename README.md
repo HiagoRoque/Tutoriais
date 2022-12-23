@@ -1,4 +1,4 @@
-## Tutoriais diversos em linux e windows
+## Tutoriais diversos, dicas e indicações
 
 * [**Markdown** - Formatações](docs/formata%C3%A7%C3%A3o_markdown.md)
 * [**Docker** - Guia de instalação](docs/docker.md)
