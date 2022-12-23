@@ -1,12 +1,10 @@
 # **Formatação em Markdown**
-
+A seguir algumas formatações básicas em markdown. Veja o código fonte:
+#
 # titulo
 ## subtitulo
 ### subtitulo 2
 #### subtitulo 3
-
-***
-***
 
 **negrito**
 
