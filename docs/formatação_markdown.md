@@ -49,6 +49,11 @@ refência: [Acesse a luz azul][link-luzAzul]
 imagem:
 
 ![](https://starecat.com/content/wp-content/uploads/die-for-the-first-time-dark-souls-achievement-dog-doge-meme.jpg)
+
+imagem usando html:
+
+<img src="https://starecat.com/content/wp-content/uploads/die-for-the-first-time-dark-souls-achievement-dog-doge-meme.jpg" alt="descrição" style="400px; width:400px;"/>
+
 ***
 
 ### Tabelas:
