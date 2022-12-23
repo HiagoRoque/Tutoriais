@@ -10,14 +10,23 @@ Em geral, o Artbreeder é uma ferramenta que permite aos utilizadores experiment
 
 > **Dica:** Uma ótima ferramenta pra quem deseja criar personagens.
 
+> [Crie suas artes aqui](https://www.artbreeder.com/)
+
 ### Veja algumas criações minhas:
 
 ![](https://artbreeder.b-cdn.net/imgs/585c1ec6858f2e66b54ed7d43a65.jpeg?width=512)
 ![](https://artbreeder.b-cdn.net/imgs/540c36fdec2ad28b2d75255a6f15.jpeg)
-![](https://artbreeder.b-cdn.net/imgs/7e23dfe71efba58694e0154778d1.jpeg)
 
 > O Artbreeder é uma das muitas inteligências artificiais que estão sendo exploradas recentemente.
 
-> Ela possui diversos concorrentes, um dos mais famosos é o [MidJourney](docs/mid-journey.md)
+> Ela possui diversos concorrentes, um dos mais famosos é o [MidJourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
+
+## Devo utilizar ?
+
+A resposta é sim, é uma ferramenta bem robusta quando se trata de principalmente criação de criação de rostos. E o melhor é **gratuito**.
+
+Entretanto, para conseguir usar o máximo da IA é necessário fazer uma assinatura mensal ou anual.
+#
+### [Crie suas artes aqui](https://www.artbreeder.com/)
 
 
