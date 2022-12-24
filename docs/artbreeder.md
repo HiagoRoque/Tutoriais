@@ -9,7 +9,7 @@
 
 <p align="justify">Em geral, o Artbreeder é uma ferramenta que permite aos utilizadores experimentar e criar imagens originais através de uma interface intuitiva e de fácil utilização. Pode ser utilizado por artistas e designers como fonte de inspiração, ou simplesmente como uma forma divertida de criar e partilhar conteúdos visuais únicos.
 
-> **Dica:** Uma ótima ferramenta pra quem deseja criar personagens.
+> **Dica:** Uma ótima ferramenta pra quem deseja criar personagens e cenários.
 
 > [Crie suas artes aqui](https://www.artbreeder.com/)
 
