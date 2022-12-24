@@ -25,7 +25,7 @@
 
 ## Devo utilizar ?
 
-A resposta é sim, é uma ferramenta bem robusta quando se trata de principalmente criação de criação de rostos. E o melhor é **gratuito**.
+A resposta é sim, é uma ferramenta bem robusta quando se trata de principalmente criação de criação de rostos. E o melhor, é **gratuito**.
 
 Entretanto, para conseguir usar o máximo da IA é necessário fazer uma assinatura mensal ou anual.
 #
