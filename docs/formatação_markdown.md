@@ -1,4 +1,4 @@
-# **Formatação em Markdown**
+# <center>**Formatação em Markdown**
 A seguir algumas formatações básicas em markdown. Veja o código fonte:
 #
 # titulo
@@ -9,6 +9,24 @@ A seguir algumas formatações básicas em markdown. Veja o código fonte:
 **negrito**
 
 *itálico*
+
+~~texto riscado~~
+
+Texto <sup>sobrescrito</sup>
+
+<kbd>ALT + F4</kbd>
+
+Texto <mark>marcado</mark>
+
+<p align="justify"> texto justificado </p>
+
+<center>Item centralizado</center>
+
+#### linhas horarizontais
+---
+***
+___
+
 ***
 - listas
   - sublista
@@ -16,6 +34,10 @@ A seguir algumas formatações básicas em markdown. Veja o código fonte:
 
 1. lista numerada
 2. lista numerada
+
+- [ ] Red
+- [x] Blue
+- [x] Green
 ***
 formatação em código mesma linha `while`
 
