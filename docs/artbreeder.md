@@ -17,7 +17,7 @@
 
 ![](https://artbreeder.b-cdn.net/imgs/23e9831833d130ee59bec72b4333.jpeg?width=512)
 ![](https://artbreeder.b-cdn.net/imgs/ac99e8157f01d0e4da1906116452.jpeg?width=512)
-![](https://artbreeder.b-cdn.net/imgs/8ee1f9766bfa071e36d357312238.jpeg?width=512)
+<img src="https://artbreeder.b-cdn.net/imgs/8ee1f9766bfa071e36d357312238.jpeg?width=512" alt="" style="800px; width:771px;"/>
 
 > O Artbreeder é uma das muitas inteligências artificiais que estão sendo exploradas recentemente.
 
