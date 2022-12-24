@@ -15,8 +15,9 @@
 
 ### Veja algumas criações minhas:
 
-![](https://artbreeder.b-cdn.net/imgs/585c1ec6858f2e66b54ed7d43a65.jpeg?width=512)
-![](https://artbreeder.b-cdn.net/imgs/540c36fdec2ad28b2d75255a6f15.jpeg)
+![](https://artbreeder.b-cdn.net/imgs/23e9831833d130ee59bec72b4333.jpeg?width=512)
+![](https://artbreeder.b-cdn.net/imgs/ac99e8157f01d0e4da1906116452.jpeg?width=512)
+![](https://artbreeder.b-cdn.net/imgs/8ee1f9766bfa071e36d357312238.jpeg?width=512)
 
 > O Artbreeder é uma das muitas inteligências artificiais que estão sendo exploradas recentemente.
 
